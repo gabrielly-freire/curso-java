@@ -16,6 +16,10 @@ public class Product {
         this.price = price;
         this.quantity = quantity;
     }
+    public Product(String name, double price){
+        this.name = name;
+        this.price = price;
+    }
     // métodos setters e getters
     public void setName(String name){
         this.name = name;
@@ -29,9 +33,6 @@ public class Product {
     }
     public double getPrice(){
         return this.price;
-    }
-    public void setQuantity(int quantity){
-        this.quantity = quantity;
     }
     public int getQuantity(){
         return this.quantity;
