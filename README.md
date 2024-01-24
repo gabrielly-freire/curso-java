@@ -31,7 +31,7 @@ Assim como ferramentas e frameworks para se trabalhar com Java:
 
 
 ## Projetos
-- [ ] [Jogo de xadrez](https://github.com/gabrielly-freire/chess-system-java)
+- [x] [Jogo de xadrez](https://github.com/gabrielly-freire/chess-system-java)
 - [ ] Java JDBC e DAO pattern
 - [ ] Web Services com Spring Boot e JPA
 - [ ] API Restful com Spring Boot e MongoDB
