@@ -32,7 +32,7 @@ Assim como ferramentas e frameworks para se trabalhar com Java:
 
 ## Projetos
 - [x] [Jogo de xadrez](https://github.com/gabrielly-freire/chess-system-java)
-- [ ] Java JDBC e DAO pattern
+- [ ] [Java JDBC e DAO pattern](https://github.com/gabrielly-freire/demo-dao-jdbc)
 - [ ] Web Services com Spring Boot e JPA
 - [ ] API Restful com Spring Boot e MongoDB
 
