@@ -34,6 +34,6 @@ Assim como ferramentas e frameworks para se trabalhar com Java:
 - [x] [Jogo de xadrez](https://github.com/gabrielly-freire/chess-system-java)
 - [x] [Java JDBC e DAO pattern](https://github.com/gabrielly-freire/demo-dao-jdbc)
 - [x] [Web Services com Spring Boot e JPA](https://github.com/gabrielly-freire/springboot-jpa)
-- [ ] API Restful com Spring Boot e MongoDB
+- [ ] [API Restful com Spring Boot e MongoDB](https://github.com/gabrielly-freire/springboot-mongodb)
 
 _**STATUS**_: EM ANDAMENTO 
